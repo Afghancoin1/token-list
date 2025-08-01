@@ -1,9 +1,85 @@
+# Afghan.coin (AFG)
 
-## Deprecated -- all PRs will be closed.
+Afghan.coin (AFG) is a decentralized meme token built on the Solana blockchain.  
+It aims to bring the Afghan community together in the Web3 space through transparency, fairness, and creative use of blockchain technology.
 
-This has been replaced by Jupiter Verify, our V3 token list system. You no longer need to submit applications. Instead, tokens with a good organic score and community support(measured by smart likes) will be discovered naturally and verified.
+---
 
-To get your community to submit smart likes, go to the token page of your token and like it.
-- Example for SOL token, replace the mint address with yours: https://jup.ag/tokens/So11111111111111111111111111111111111111112
+## 🔒 Security Summary
 
-Just a reminder: Verification is our way of helping users find the correct token at the right mint address, and is not an endorsement of any project.
+AFG has implemented all key protective measures to ensure investor confidence and full decentralization:
+
+- ✅ **Mint Authority Revoked** – No more AFG tokens can ever be minted.
+- ✅ **Freeze Authority Revoked** – No wallets can be frozen or blocked.
+- ✅ **Token Configuration is Immutable** – No upgrades or changes to contract.
+- ✅ **Ownership Renounced** – No admin control or central authority remains.
+- ✅ **LP Tokens Locked Until July 30, 2026** – Viewable on-chain.
+- ✅ **No Hidden Fees** – 0% transfer or trade tax.
+- ✅ **Open Source & Transparent** – Full code and documentation are public.
+
+🔗 All details are documented in the [Whitepaper (v1.2)](https://github.com/Afghancoin1/Afghan.coin/blob/main/whitepaper.md#-token-security--transparency)
+
+---
+
+## 🪙 Token Information
+
+- **Token Name:** Afghan.coin  
+- **Symbol:** AFG  
+- **Mint Address:** `4rxmCJLt2fsCkofAKwU6wMveD4nWoTkRHF7FbHchu6yH`  
+- **Decimals:** 9  
+- **Chain:** Solana (Mainnet, Chain ID: 101)  
+- **Logo:** ![AFG Logo](https://raw.githubusercontent.com/Afghancoin1/Afghan.coin/main/logo.png)  
+- **Tags:** meme, community, safe, no-mint, locked-liquidity  
+
+---
+
+## 📊 Token Allocation
+
+| Allocation                            | Percentage |
+|--------------------------------------|------------|
+| Locked Tokens (until May 16, 2026)   | 30%        |
+| Liquidity Pool (Raydium / OpenBook)  | 25%        |
+| Airdrop                              | 5%         |
+| Project Treasury, Team & Marketing   | 20%        |
+| Reserve / Future Use                 | 20%        |
+
+---
+
+## 🔐 Locked Wallet
+
+To ensure transparency and long-term commitment, 30% of the total supply has been locked in a separate wallet until **May 16, 2026**.
+
+- **Locked Wallet Address:** `E2LzK9p57mEQCjAoeApfh2LQWk9Nf37y9DjAHwzNPUb1`
+
+No tokens will be moved or utilized from this wallet before the unlock date.
+
+---
+
+## 🔒 LP Token Lock
+
+All liquidity pool (LP) tokens are locked in a separate wallet until **July 30, 2026** to prevent rug pulls and maintain market integrity.
+
+- **LP Locked Wallet Address:** `52fDombypDrutFMceRMGDCMZG2qz5z7Ersw13GkMgq4Y`
+
+---
+
+## 📣 Community & Socials
+
+- **YouTube:** [@AFGtoken](https://youtube.com/@AFGtoken)  
+- **Twitter (X):** [@AFGtoken](https://x.com/AFGtoken)  
+- **TikTok:** [@AFGtoken](https://tiktok.com/@AFGtoken)  
+- **Telegram:** [@AFGtoken2](https://t.me/boost/AFGtoken2)
+
+---
+
+## 📝 Notes
+
+- Liquidity is currently reduced temporarily while an OpenBook market is being established to prevent early price manipulation.  
+- Airdrops will be conducted from a separate wallet, not from the locked wallet, to maintain lock integrity.  
+- Token ownership has been renounced and cannot be recovered — ensuring full decentralization.
+
+---
+
+*This README serves as an official and transparent overview of the Afghan.coin project and will be updated as new developments occur.*
+
+_Last updated: August 1, 2025_
