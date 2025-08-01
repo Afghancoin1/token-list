@@ -1,42 +1,19 @@
 {
-  "name": "token-list",
-  "version": "1.0.0",
-  "main": "index.js",
-  "repository": "https://github.com/jup-ag/token-list.git",
-  "author": "raccoons",
-  "license": "MIT",
-  "scripts": {
-    "validate-PR": "yarn build && node dist/main.js",
-    "build": "tsc",
-    "update-partners": "yarn build && node dist/partners/scripts/get-wormhole.js && node dist/partners/scripts/get-solana-fm.js",
-    "get-wormhole": "yarn build && node dist/partners/scripts/get-wormhole.js",
-    "check-wormhole": "yarn build && node dist/partners/scripts/check-wormhole-with-verified.js",
-    "get-solana-fm": "yarn build && node dist/partners/scripts/get-solana-fm.js",
-    "format": "yarn prettier --write **/*.ts",
-    "format-check": "yarn prettier --check **/*.ts",
-    "lint": "eslint src/**/*.ts",
-    "test": "vitest --test-timeout 20000 src/**/*.ts"
-  },
-  "dependencies": {
-    "@actions/core": "^1.10.0",
-    "@actions/exec": "^1.1.1",
-    "@actions/github": "^5.1.1",
-    "@metaplex-foundation/js": "^0.20.1",
-    "@solana/spl-token": "^0.4.0",
-    "@solana/web3.js": "^1.90.0",
-    "@types/minimist": "^1.2.5",
-    "csv-writer": "^1.6.0",
-    "minimist": "^1.2.8",
-    "node-downloader-helper": "^2.1.6",
-    "node-fetch": "^2.6.6",
-    "typescript-node": "^0.1.3"
-  },
-  "devDependencies": {
-    "@types/node": "^18.13.0",
-    "@types/node-fetch": "^2.6.2",
-    "csv-parse": "^5.5.3",
-    "ts-node": "^10.9.2",
-    "typescript": "^4.9.5",
-    "vitest": "^1.2.2"
+  "chainId": 101,
+  "address": "4rxmCJLt2fsCkofAKwU6wMveD4nWoTkRHF7FbHchu6yH",
+  "symbol": "AFG",
+  "name": "Afghan.coin",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/Afghancoin1/Afghan.coin/main/logo.png",
+  "tags": ["meme", "community", "safe", "no-mint", "locked-liquidity"],
+  "extensions": {
+    "website": "https://github.com/Afghancoin1",
+    "market1": "https://openbook.dexlab.space/market/28ezmRBp5S9coK1snZHpaMPuvf7PS9TB6oHSmgYzNDME",
+    "market2": "https://openbook.dexlab.space/market/EXo6WHEVS6rqGsRcksXA1gEzf4ikvqeWYdbrmJF3zJTv",
+    "twitter": "https://x.com/AFGtoken",
+    "telegram": "https://t.me/boost/AFGtoken2",
+    "tiktok": "https://tiktok.com/@AFGtoken",
+    "youtube": "https://youtube.com/@AFGtoken",
+    "source": "community"
   }
 }
